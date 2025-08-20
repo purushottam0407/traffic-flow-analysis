@@ -4,7 +4,7 @@ import os
 import pandas as pd
 from datetime import datetime
 from ultralytics import YOLO
-from modles.sort.sort import Sort  # SORT tracker
+from modles.sort.sort import Sort  # make sure you have a SORT implementation
 import yt_dlp as ydl  # yt-dlp for reliable downloading
 
 # Constants
@@ -140,3 +140,4 @@ def main():
 if __name__ == "__main__":
     main()
     
+
