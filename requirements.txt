@@ -1,0 +1,9 @@
+OpenCV
+NumPy
+OS
+Pandas
+Pytube
+Ultralytics YOLO
+yt_dlp
+
+
